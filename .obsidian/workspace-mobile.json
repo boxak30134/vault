@@ -11,10 +11,14 @@
             "id": "9dadd6937a9bbd00",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_raw/교육대학원/현대대수학/수업/실로우 정리.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "실로우 정리"
             }
           }
         ]
@@ -190,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6fdf2e7e65c93b4",
+  "active": "9dadd6937a9bbd00",
   "lastOpenFiles": [
     "_raw/교육대학원/현대대수학/필기노트/10주차부분환_260511_180323.pdf",
     "_raw/교육대학원/현대대수학/임의의 치환은 서로소인 순환치환의 곱으로 나타낼 수 있다.md",
