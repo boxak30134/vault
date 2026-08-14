@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "d9a3773887030ae9",
+    "type": "split",
+    "children": [
+      {
+        "id": "575f2af0073242cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dadd6937a9bbd00",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33fecae0bf1972b2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "34c657a35b35130d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "파일 탐색기"
+        }
+      },
+      {
+        "id": "17b72184ccd3bd78",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "지식",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "검색"
+        }
+      },
+      {
+        "id": "320045010dc2cb3c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "태그"
+        }
+      },
+      {
+        "id": "9f34b78f957bb06e",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "모든 속성"
+        }
+      },
+      {
+        "id": "a079aed6cd080ac1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "북마크"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1a61e758d39042bb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b7227b635dc1e09d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "교육대학원/수학교육론/준경험주의/라카토스의 준경험주의.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "백링크"
+        }
+      },
+      {
+        "id": "6dfbca21cfb93abf",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "현대대수학 시험 대비 핵심 개념 및 정리 총정리.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "나가는 링크"
+        }
+      },
+      {
+        "id": "da9c015e54e3555a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "현대대수학 시험 대비 핵심 개념 및 정리 총정리.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "개요"
+        }
+      },
+      {
+        "id": "0204f63a6e65c840",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "c6fdf2e7e65c93b4",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "css-editor:Open CSS editor quick switcher": false,
+      "to-word:Export to Word": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c6fdf2e7e65c93b4",
+  "lastOpenFiles": [
+    "_raw/교육대학원/현대대수학/필기노트/10주차부분환_260511_180323.pdf",
+    "_raw/교육대학원/현대대수학/임의의 치환은 서로소인 순환치환의 곱으로 나타낼 수 있다.md",
+    "_raw",
+    "_raw/교육대학원/현대대수학/필기노트/6주차-준동형사상,동형정리,단순군_260503_121140.pdf",
+    "_raw/교육대학원/현대대수학/pdf",
+    "schema",
+    "wiki",
+    "_raw",
+    "Excalidraw/Drawing 2026-06-18 21.05.30.excalidraw.md",
+    "유진이에게.md",
+    "Daily Note/2026년/6월/2026년 6월 27일.md",
+    "유진이에게 쓰는 편지.md",
+    "Pasted image 20260628202420.jpg",
+    "교회/설교/신약/고린도전서/고린도전서 9장 23절 ~ 27절.md",
+    "교회/설교/신약/고린도전서/고린도전서 7장 17절.md",
+    "교회/설교/구약/신명기/신명기 16장 9절 ~ 12절.md",
+    "교회/설교/신약/고린도전서/고린도전서 10장 31절-11장 1절.md",
+    "교회/설교/신약/고린도전서/고린도전서 11장 23절 ~ 29절.md",
+    "멘토링/2026.07.15.md",
+    "교회/설교/구약/에스라/에스라 3장 1절 ~ 7절.md",
+    "_raw/교육대학원/수학교육론/준경험주의/라카토스의 준경험주의.md",
+    "_raw/교육대학원/수학교육론/준경험주의/수학적 지식의 확실성에 대한 견해의 변천과정.md",
+    "교회/설교/구약/에스라/에스라 1장 1절 ~ 11절.md",
+    "교회/설교/구약/에스라",
+    "교회/설교/신약/고린도전서",
+    "교회/설교/구약/신명기",
+    "멘토링/중학교 1학년 2학기/위치 관계.md",
+    "Excalidraw/Drawing 2026-06-28 21.01.37.excalidraw.md",
+    "Excalidraw/Drawing 2026-06-28 20.58.14.excalidraw.md",
+    "Excalidraw/Drawing 2026-06-28 20.40.53.excalidraw.md",
+    "Excalidraw/Drawing 2026-06-28 20.29.35.excalidraw.md",
+    "Excalidraw/Drawing 2026-06-28 20.38.10.excalidraw.md",
+    "Excalidraw/Drawing 2026-06-28 20.32.50.excalidraw.md",
+    "멘토링/중학교 1학년 2학기/1.기본도형.md",
+    "멘토링/중학교 1학년 2학기",
+    "_raw/교육대학원/수학교육론/시험가이드/서술형 문항 가이드.md",
+    "Pasted image 20260628202607.jpg",
+    "Excalidraw/midpoint.md",
+    "Excalidraw/무제.canvas",
+    "_raw/교육대학원/학습과학/Atkison-Shiffrin의 기억모형.jpg"
+  ]
+}
