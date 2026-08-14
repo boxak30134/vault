@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "226dc655e1459bb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3dd22b72b48e7cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "303e931984b7a3b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/정역과 표수.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "정역과 표수"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc530f79cb0c5c9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d3316b612ca9fac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bb9ea9cfaf7f0db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "9cb1976865c14121",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "c3222ce63fa1b0b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f47c09d5de4180e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bb79d3b8927f268",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e70f397f02a1109d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/정역과 표수.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "9f8d6341a8db71b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/정역과 표수.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "fcb0ced8b225ffec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "3c185605714bebab",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "6ec1e7d10b06d005",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/정역과 표수.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          },
+          {
+            "id": "8ea932a65a500f88",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "bffa78b4bd1938bf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "css-editor:Open CSS editor quick switcher": false,
+      "to-word:Export to Word": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5bb9ea9cfaf7f0db",
+  "lastOpenFiles": [
+    "wiki/임용 현대대수학 핵심 정리 총정리.md",
+    "wiki/유한생성 아벨군의 구조 정리.md",
+    "wiki/아이디얼과 잉여환.md",
+    "wiki/다항식환과 인수분해.md",
+    "wiki/정역의 분수체.md",
+    "wiki/정역과 표수.md",
+    "wiki/환과 체의 기초.md",
+    "wiki/군의 열과 가해군.md",
+    "wiki/실로우 정리와 유한군의 분류.md",
+    "wiki/부분군과 순환군.md",
+    "wiki/군의 작용과 코시 정리.md",
+    "wiki/잉여류와 라그랑주 정리.md",
+    "잉여류와 라그랑주 정리.md",
+    "wiki/준동형사상과 동형정리.md",
+    "wiki/대칭군과 치환.md",
+    "wiki/정규부분군과 잉여군.md",
+    "wiki/군의 정의와 기본 성질.md"
+  ]
+}
